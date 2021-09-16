@@ -1,0 +1,10 @@
+.slider {
+  background-color: rgba(250, 219, 216, 0.5);
+  border-radius: 1em;
+}
+.button-pink {
+  background-color: #fa1050;
+}
+.categories img {
+  width: 100px;
+}
